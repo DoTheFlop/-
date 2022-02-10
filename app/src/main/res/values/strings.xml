@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">한밭대 도서관 프로젝트</string>
+    <string name="Login">로그인</string>
+    <string name="Logout">로그아웃</string>
+</resources>
